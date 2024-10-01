@@ -34,10 +34,9 @@ record Expr(String text) {
                 }
                 continue;
             }
-
-            // TODO:
-            // if (ch.equals(")")) {
-            //   ...
+// TO DO :
+            if (ch.equals(")")) {
+    
         }
 
         try {
